@@ -1,0 +1,29 @@
+.textbox {
+  height: 40px;
+}
+body {
+  background-color: #ffffff;
+  z-index: 100;
+}
+.navbar {
+  background-color: #f7f6f0;
+  width: 100%;
+}
+.card-body {
+  background-color: #ffffff;
+}
+.card-footer {
+  background-color: #ffffff;
+}
+
+.btn {
+  background-color: #74520c;
+  color: #ffffff;
+}
+.btn-secondary {
+  background-color: #74520c;
+  color: #ffffff;
+}
+.badge {
+  background-color: #74520c;
+}
